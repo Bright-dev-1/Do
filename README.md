@@ -1,6 +1,3 @@
-<img width="1280" height="768" alt="image" src="https://github.com/user-attachments/assets/6def15bb-d0e8-4b72-9fa1-cdf9cce06ea3" /># Do
-to-do list web app
-
 # Do.
 
 **Do.** is a single-page task management application featuring a high-contrast, Neo-Brutalist design aesthetic. It abandons modern gradients for raw, solid colors and tactile interactions, prioritizing clarity and focus.
